@@ -9,7 +9,7 @@ git clone https://github.com/KAUST-KSL/SC17_BB_Tutorial.git
 
 ### Complex Workflow
 
-cd complex
+cd complex_workflow
 
 #### Instructions
 
